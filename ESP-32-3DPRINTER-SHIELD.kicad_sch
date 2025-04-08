@@ -1,0 +1,203 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "6c3ddc55-becd-433f-9ee2-a4e1108d5eba")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 36.83 106.68)
+		(size 48.26 46.99)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "237609a3-bd97-458a-bc88-efae4b12fa7c")
+		(property "Sheetname" "SENSORES"
+			(at 36.83 105.9684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SENSORES.kicad_sch"
+			(at 36.83 154.2546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP-32-3DPRINTER-SHIELD"
+				(path "/6c3ddc55-becd-433f-9ee2-a4e1108d5eba"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 93.98 41.91)
+		(size 49.53 48.26)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "38811fdf-c440-46a5-9ee0-2b47c598670e")
+		(property "Sheetname" "CONTROL"
+			(at 93.98 41.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CONTROL.kicad_sch"
+			(at 93.98 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP-32-3DPRINTER-SHIELD"
+				(path "/6c3ddc55-becd-433f-9ee2-a4e1108d5eba"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 152.4 41.91)
+		(size 46.99 48.26)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "998d1187-65a2-426b-a129-277d05be3a93")
+		(property "Sheetname" "MOVIMIENTO"
+			(at 152.4 41.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MOVIMIENTO.kicad_sch"
+			(at 152.4 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP-32-3DPRINTER-SHIELD"
+				(path "/6c3ddc55-becd-433f-9ee2-a4e1108d5eba"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 36.83 41.91)
+		(size 48.26 48.26)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c3da7e6f-427a-44cd-ab3f-ff3af211e9bd")
+		(property "Sheetname" "PWR"
+			(at 36.83 41.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PWR.kicad_sch"
+			(at 36.83 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP-32-3DPRINTER-SHIELD"
+				(path "/6c3ddc55-becd-433f-9ee2-a4e1108d5eba"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 208.28 41.91)
+		(size 45.72 48.26)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c79b7c15-f079-45ae-819e-478fd6a9c68c")
+		(property "Sheetname" "MOSFETS"
+			(at 208.28 41.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MOSFETS.kicad_sch"
+			(at 208.28 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ESP-32-3DPRINTER-SHIELD"
+				(path "/6c3ddc55-becd-433f-9ee2-a4e1108d5eba"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
